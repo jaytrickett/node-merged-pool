@@ -34,7 +34,7 @@
         "url": "https://github.com/jaytrickett/node-merged-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/jaytrickett/node-multi-hashing",
+        "unomp-multi-hashing": "https://github.com/jaytrickett/node-multi-hashing",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
